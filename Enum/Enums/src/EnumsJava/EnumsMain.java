@@ -15,14 +15,7 @@ public class EnumsMain extends Exception{
 			entrada.close();
 			
 			Enumteste pl = new Enumteste(planeta);
-			pl.viajarPlaneta();
-			
-			try {
-				
-			}catch (Exception e) {
-				
-			}
-			
+			pl.viajarPlaneta();	
 		}
 		
 			
